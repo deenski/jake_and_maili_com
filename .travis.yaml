@@ -15,7 +15,7 @@ install:
   - npm run generate:gh-pages
 
 script:
-  - echo "Skipping tests"
+  - echo "Fuck you Travis!"
 
 deploy:
   provider: pages
