@@ -1,8 +1,18 @@
 <template>
   <div>
+    <navigation />
     <nuxt />
   </div>
 </template>
+
+<script>
+import Navigation from '~/components/Nav.vue'
+export default {
+  components: {
+    Navigation
+  }
+}
+</script>
 
 <style>
 html {
@@ -17,25 +27,55 @@ html {
   box-sizing: border-box;
 }
 
+body {
+  background-image: url('https://source.unsplash.com/AsahNlC0VhQ/1920x1080');
+}
+
 *,
 *:before,
 *:after {
   box-sizing: border-box;
   margin: 0;
 }
+.container {
+  margin: 0 auto;
+  min-height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.title {
+  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
+    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  display: block;
+  font-weight: 300;
+  font-size: 85px;
+  color: #f9f3db;
+  letter-spacing: 1px;
+}
+
+.subtitle {
+  font-weight: 300;
+  font-size: 42px;
+  color: #f9f3db;
+  word-spacing: 5px;
+  padding-bottom: 15px;
+}
 
 .button--green {
   display: inline-block;
   border-radius: 4px;
-  border: 1px solid #3b8070;
-  color: #3b8070;
+  border: 1px solid #f9f3db;
+  color: #f9f3db;
   text-decoration: none;
   padding: 10px 30px;
 }
 
 .button--green:hover {
-  color: #fff;
-  background-color: #3b8070;
+  color: #000;
+  background-color: #f9f3db;
 }
 
 .button--grey {
