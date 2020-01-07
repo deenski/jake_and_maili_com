@@ -29,6 +29,8 @@ html {
 
 body {
   background-image: url('https://source.unsplash.com/AsahNlC0VhQ/1920x1080');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 *,
@@ -62,6 +64,20 @@ body {
   color: #f9f3db;
   word-spacing: 5px;
   padding-bottom: 15px;
+}
+
+.content {
+  font-weight: 225;
+  font-size: 32px;
+  color: #f9f3db;
+}
+
+.links {
+  color: #82947d;
+}
+
+.links:hover {
+  color: #f9f3db;
 }
 
 .button--green {
