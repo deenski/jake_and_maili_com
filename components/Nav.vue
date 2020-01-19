@@ -1,6 +1,6 @@
 <template>
   <div class="nav-container">
-    <div class="links">
+    <div class="pad">
       <router-link to="/" target="self" class="button--green">
         Home
       </router-link>
@@ -35,7 +35,7 @@
   align-items: center;
   text-align: center;
 }
-.links {
+.pad {
   padding-top: 15px;
   padding-right: 15px;
 }

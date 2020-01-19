@@ -73,11 +73,12 @@ body {
 }
 
 .links {
-  color: #82947d;
+  color: #f9f3db;
+  text-decoration: underline;
 }
 
 .links:hover {
-  color: #f9f3db;
+  color: #173e58;
 }
 
 .button--green {
@@ -107,5 +108,24 @@ body {
 .button--grey:hover {
   color: #fff;
   background-color: #35495e;
+}
+
+.code-container {
+  margin: 0 auto;
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+pre {
+  width: 40%;
+  height: auto;
+  text-align: left;
+  background-color: #000;
+}
+pre code {
+  background-color: #000;
+  color: #fff;
 }
 </style>
