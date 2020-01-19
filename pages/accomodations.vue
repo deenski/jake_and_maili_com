@@ -11,7 +11,8 @@
         >
           Fairfield by Marriot
         </a>
-        the cost is $129. Call us if you want to reserve a room.
+        the cost is $129. Call us if you want to reserve a room. Feel free to
+        look into your own options.
       </p>
     </div>
   </div>
