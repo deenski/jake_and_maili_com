@@ -1,8 +1,12 @@
 <template>
   <div class="container">
     <div>
-      <h1 class="title">Accomodations</h1>
-      <h2 class="subtitle">Hotels</h2>
+      <h1 class="title">
+        Accomodations
+      </h1>
+      <h2 class="subtitle">
+        Hotels
+      </h2>
       <p class="content">
         We can reserve a room for you at the closest hotel to the venue,
         <a
