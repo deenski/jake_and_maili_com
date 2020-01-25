@@ -64,6 +64,17 @@ body {
   color: #f9f3db;
   word-spacing: 5px;
   padding-bottom: 15px;
+  text-align: center;
+}
+
+h3 {
+  font-weight: 260;
+  font-size: 36px;
+  color: #f9f3db;
+  word-spacing: 5px;
+  padding-bottom: 15px;
+  text-align: left;
+  text-decoration: underline;
 }
 
 .content {

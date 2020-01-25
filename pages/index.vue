@@ -10,9 +10,6 @@
           River Garden Winery
         </a>
       </h2>
-      <h3 class="subtitle">
-        This site is largely 🛠️Under Construction🛠️.
-      </h3>
       <p class="content">
         We've tried to provide accurate information for you here. But, wedding
         planning is no easy task. If you have any specific questions, feel free
