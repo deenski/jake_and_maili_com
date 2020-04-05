@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="bg">
     <navigation />
     <nuxt />
   </div>
@@ -25,12 +25,24 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
+  height: 100%;
 }
 
 body {
-  background-image: url('https://source.unsplash.com/AsahNlC0VhQ/1920x1080');
+  height: 100%;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("/bg.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-size: cover;
 }
 
 *,
@@ -139,4 +151,51 @@ pre code {
   background-color: #000;
   color: #fff;
 }
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .title {
+    font-size: 125%;
+  }
+
+  .subtitle {
+    font-size: 125%;
+  }
+
+  h3 {
+    font-size: 125%;
+  }
+
+  .content{
+    font-size: 125%;
+  }
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .title {
+    font-size: 300%;
+  }
+
+  .subtitle {
+    font-size: 225%;
+  }
+
+  h3 {
+    font-size: 225%;
+  }
+
+  .content {
+    font-size: 125%;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}
 </style>

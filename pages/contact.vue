@@ -6,7 +6,7 @@
       </h1>
       <h2 class="subtitle">
         📅: 10.15.20, 🗺️:
-        <a href="http://bit.ly/2tw5xa9" class="subtitle links">
+        <a href="http://bit.ly/2tw5xa9" class="links">
           River Garden Winery
         </a>
       </h2>
