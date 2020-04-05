@@ -14,24 +14,18 @@
         <a href="mailto:jakeandmailiwedding@gmail.com" class="links">
         Click here to RSVP
         </a>
-        or email us directly at <span class="links">jakeandmailiwedding@gmail.com</span>
+        or email us directly at jakeandmailiwedding@gmail.com
         with a head count and what you're eating. If you're a Vegan, please
         list that next to your name.
       </p>
       <p class="content">
       Example message with the content we NEED, feel free to copy paste:
       </p>
-      <div class="code-container">
-        <pre>
-          <code>
-          Attending:
-            Jakob - Paris Chicken
-            Maili - Vegan - Medeterainian Cous Cous
-          Not attending:
-            None
-          </code>
-        </pre>
-      </div>
+      <p class="content">
+        Attending: </br>
+          Jakob  </br>
+          Maili - Vegan </br>
+      </p>
     </div>
   </div>
 </template>
