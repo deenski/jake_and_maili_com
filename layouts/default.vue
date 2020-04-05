@@ -172,7 +172,24 @@ pre code {
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {}
+@media only screen and (min-width: 600px) {
+    .title {
+    font-size: 125%;
+  }
+
+  .subtitle {
+    font-size: 125%;
+  }
+
+  h3 {
+    font-size: 125%;
+  }
+
+  .content{
+    font-size: 125%;
+  }
+
+}
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
@@ -192,10 +209,4 @@ pre code {
     font-size: 125%;
   }
 }
-
-/* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) {}
-
-/* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px) {}
 </style>
