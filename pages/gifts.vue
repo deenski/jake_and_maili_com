@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <div>
+    <div class="card">
       <h1 class="title">
         Gifts
       </h1>

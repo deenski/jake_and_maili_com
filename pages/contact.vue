@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <div>
+    <div class="card">
       <h1 class="title">
         🤍Jake & Maili Have A Wedding🤍
       </h1>

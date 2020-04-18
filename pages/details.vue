@@ -1,9 +1,10 @@
 <template>
   <div class="container">
-    <div>
+    <div class="card">
       <h1 class="title">
         🤍Jake & Maili Have A Wedding🤍
       </h1>
+
       <h2 class="subtitle">
         The Details:
       </h2>

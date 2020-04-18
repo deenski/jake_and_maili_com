@@ -60,6 +60,16 @@ body {
   text-align: center;
 }
 
+.card {
+  border: 2px solid beige;
+  border-radius: 25px;
+  padding: 50px;
+  margin: 0 auto;
+  position: relative;
+  max-width: 900px;
+  background: rgba(55, 55, 55, 0.6);
+}
+
 .title {
   font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
