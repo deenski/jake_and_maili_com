@@ -106,12 +106,12 @@ h3 {
 }
 
 .links {
-  color: #f9f3db;
+  color: #f0adb6;
   text-decoration: underline;
 }
 
 .links:hover {
-  color: #173e58;
+  color: beige;
 }
 
 .button--green {
