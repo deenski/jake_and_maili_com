@@ -34,6 +34,15 @@
         If you can't put it aside for a few hours, consider diversifying your interests
         and feel free to not attend.
       </p>
+      <h3>COVID-19</h3>
+      <p class="content left">
+        This has been an exceptionally hard year for all of us. While we are still planning on holding the ceremony this October
+        we are also aware that stay-in-place orders may not be lifted by then. If that's the case here in Denver, we'll reschedule.
+        While we would love to see each and every one of you, we understand that your lives and the lives of those you care most for
+        in this world may not be worth the risk of attending. We want you to know that we won't be dissappointed if you decide you
+        cannot attend for personal health reasons.
+      </p>
+
     </div>
   </div>
 </template>
