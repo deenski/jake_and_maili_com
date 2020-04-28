@@ -31,7 +31,7 @@
         If someone is baiting you, feel free to bring it up with us, and we will address the situation appropriately.
         </br>
         If you can't put it aside for a few hours, consider diversifying your interests
-        and feel free to decline the invitation. You are not excluded from this policy, DAD! We literally wrote this for you. All of you.
+        and feel free to decline the invitation. You are not excluded from this policy.
       </p>
       <h3>COVID-19</h3>
       <p class="content left">
