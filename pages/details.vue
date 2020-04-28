@@ -45,10 +45,10 @@
       <p class="content left">
         Max guest count is 78 per the venue, we can't control fire code. Our DIRECT family alone makes up 29 people.
         That's moms, dads, brothers, sisters, and sibling's children.
-        Extend that to Grandparents, Cousins, Aunts, and Uncles and we are way over our guest count already, and haven't invited a single friend.
-        While we love you all, and know you reciprocate, it wouldn't break our hearts to be able to invite a friend or two.
+        Extend that to Grandparents, Cousins, Aunts, and Uncles and we are way over our guest count.
         If you believe for any reason you will be unable to attend, we would truly appreciate an early update.
-        Feel free to call, text, send a raven, email the RSVP link, or hire a skywriter.
+        Feel free to call, text, send a raven, or email the RSVP link.
+        Thank you!
         </br>
         </br>
         4/27/2020: We have sent out our save the dates. If you know for a fact that you can't make it, we would truly
