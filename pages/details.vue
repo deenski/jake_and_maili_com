@@ -21,11 +21,11 @@
         </ul>
       </p>
       </br>
-      <p>
+      <p class="content">
         4/27/2020: We have sent out our save the dates. If you know for a fact that you can't make it, we would truly
         appreciate a heads-up. Declining early will allow us to send out a second round of invitations.
       </p>
-      <p>
+      <p class="content">
         6/14/2020: Changed the date, 7.14.2021 🖕🏽 Rona!
       </p>
     </div>
