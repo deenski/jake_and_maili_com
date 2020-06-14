@@ -5,13 +5,13 @@
         🤍Jake & Maili Have A Wedding🤍
       </h1>
       <h2 class="subtitle">
-        📅: 10.15.20, 🗺️:
+        📅: 07.14.2021, 🗺️:
         <a href="http://bit.ly/2tw5xa9" class="links">
           River Garden Winery
         </a>
       </h2>
       <p class="note">
-        COVID-19 may affect your ability to join, and it may affect our date.
+        COVID-19 Affected the Date.
         Please see
         <router-link to="/details" target="self" class="links">
           Details

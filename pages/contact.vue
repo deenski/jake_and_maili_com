@@ -5,7 +5,7 @@
         🤍Jake & Maili Have A Wedding🤍
       </h1>
       <h2 class="subtitle">
-        📅: 10.15.20, 🗺️:
+        📅: 7.14.2021, 🗺️:
         <a href="http://bit.ly/2tw5xa9" class="links">
           River Garden Winery
         </a>
