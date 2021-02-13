@@ -2,26 +2,16 @@
   <div class="container">
     <div class="card">
       <h1 class="title">
-        🤍Jake & Maili Have A Wedding🤍
+        🤍Jake & Maili Cancelled A Wedding🤍
       </h1>
       <h2 class="subtitle">
-        📅: 07.14.2021, 🗺️:
-        <a href="http://bit.ly/2tw5xa9" class="links">
-          River Garden Winery
-        </a>
+       CANCELLED
       </h2>
       <p class="note">
-        COVID-19 Affected the Date.
-        Please see
-        <router-link to="/details" target="self" class="links">
-          Details
-        </router-link>
-        for more info
+        COVID-19 Changed our priorities
       </p>
       <p class="content">
-        We've tried to provide accurate information for you here. But, wedding
-        planning is no easy task. If you have any specific questions, feel free
-        to reach out and call either of us directly.
+        We are still very much in love, 14 years and counting. Covid changed a lot of things. Bookmark this site to keep track of us, big things coming soon.
       </p>
     </div>
   </div>
